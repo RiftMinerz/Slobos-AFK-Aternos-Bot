@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "RiftMinerzSMP.aternos.me",
-    "port": 37065,
-    "version": "",
+    "port": 33903,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
